@@ -109,7 +109,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 <img src="https://img.shields.io/badge/-Security_Engineer_Certificate-FF6F61?style=for-the-badge&logo=Security&logoColor=white " />
 <img src="https://img.shields.io/badge/-Wireshark-00BFFF?style=for-the-badge&logo=Wireshark&logoColor=white " />
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B_601-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28601-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-FFA500?style=for-the-badge&logo=Nmap&logoColor=white " />
 </div>
 
