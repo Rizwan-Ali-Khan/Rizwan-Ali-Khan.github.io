@@ -96,21 +96,19 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <a href="https://tryhackme.com/room/adventofcyber2023">
-    <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
-</a>
-#<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B701%in%progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   
+<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-007BFF?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src=" https://img.shields.io/badge/-Practical%20Ethical%20Hacking-007BFF?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src=" https://img.shields.io/badge/-Cybersecurity%20Bootcamp%20Cohort%209-007BFF?style=for-the-badge&logo=CyberTalents&logoColor=white" />
 <img src=" https://img.shields.io/badge/-Certified%20Penetration%20Testing%20Professional-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-CEH_V11_Training-FF6F61?style=for-the-badge&logo=Security&logoColor=white " />
+<img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
 <img src=" https://img.shields.io/badge/-CompTIA_Security%2B_701-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-PEH_TCM_Security-4CAF50?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FFD700?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 
 <img src=" " />
 <img src=" " />
@@ -124,7 +122,10 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## Achievements
 
 <div>
-<img src="https://img.shields.io/badge/Master's%20Program-Cyber%20Security%20Expert-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program - Cyber Security Expert"/>
+<img src="https://img.shields.io/badge/Master's%20Program-Cyber%20Security%20Expert-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
+     <a href="https://tryhackme.com/room/adventofcyber2023">
+    <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
+</a>
 <img src="https://img.shields.io/badge/-CEHv11-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEHv11"/>
 <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white"/>
 
