@@ -67,7 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Cyber Range
-- <a href="https:rizwan-ali-khan.github.io/Detection-Lab">Detection Lab</a>
+- <a href="https://rizwan-ali-khan.github.io/Detection-Lab/">Detection Lab</a>
 - Elastic Search
 - Qradar
 - DeepFake
