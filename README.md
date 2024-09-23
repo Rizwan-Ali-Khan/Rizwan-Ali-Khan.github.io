@@ -18,7 +18,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 | HTML, CSS                                       | created a blog and login page |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Networking
 <div>
@@ -29,28 +28,36 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
-### Security Tools
+### Web security
 <div>
 <img src="https://img.shields.io/badge/-OWASP%20Top%2010-5B5EA6?style=for-the-badge&logo=OWASP&logoColor=white" />
 <img src="https://img.shields.io/badge/-Web%20Security-4B4B4B?style=for-the-badge&logo=Web&logoColor=white" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
-<img src="" />
+</div>
 
-    
+### Vulnerability Assessment
+<div>
+    <img src="https://img.shields.io/badge/-VAPT-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-FFUF-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
+</div>
+
+### Programming Languages
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+</div>
+
+### Security Tools
+<div>
+<img src="https://img.shields.io/badge/-Metasploit-00A1E4?style=for-the-badge&logo=Metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-6B4C9A?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-009900?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DirBuster-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHarvester-00A1E4?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
     
 ### Endpoint
@@ -61,6 +68,21 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Cybersecurity Frameworks
+<div>
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-7D8B3A?style=for-the-badge&logo=MITRE&logoColor=white" />
+<img src="https://img.shields.io/badge/-NIST-4D4D4D?style=for-the-badge&logo=NIST&logoColor=white" />
+<img src="https://img.shields.io/badge/-PCI%20DSS-0094D8?style=for-the-badge&logo=Payment&logoColor=white" />
+<img src="https://img.shields.io/badge/-HIPAA-5A8BFF?style=for-the-badge&logo=Health&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
+</div>
+
+<div>
+   <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
 
 ## Certifications
