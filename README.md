@@ -1,11 +1,8 @@
 # Hello, I'm Rizwan Ali Khan
 <a href="https://www.linkedin.com/in/patanrizwanalikhan"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-Seeking SOC Analyst Level 1 role. Dive into my cybersecurity journey skilled in incident response, threat detection, and proactive defense. Ready to fortify your team's digital defenses with passion and precision.
-
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+To secure a challenging position as a Penetration Tester where I can leverage my skills in identifying vulnerabilities and securing systems, contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
 ## Skills
 
 | Skill                                         | Associated Project         |
