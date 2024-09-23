@@ -94,9 +94,8 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-007BFF?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
-<img src=" https://img.shields.io/badge/-CompTIA_Security%2B_701-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-PEH-4CAF50?style=for-the-badge&logo=TCMSecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
@@ -105,19 +104,14 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## Achievements
 
 <div>
-<img src="https://img.shields.io/badge/Master's%20Program-Cyber%20Security%20Expert-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
+<img src="https://img.shields.io/badge/Master's%20Program-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
 <img src="https://img.shields.io/badge/-Cyber_Apocalypse_2023-FF6F61?style=for-the-badge&logo=HackTheBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
-
-
-
-
+<img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 <img src="https://img.shields.io/badge/-Security_Engineer_Certificate-FF6F61?style=for-the-badge&logo=Security&logoColor=white " />
 <img src="https://img.shields.io/badge/-Wireshark-00BFFF?style=for-the-badge&logo=Wireshark&logoColor=white " />
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B_601-4CAF50?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B_601-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-FFA500?style=for-the-badge&logo=Nmap&logoColor=white " />
 <img src="https://img.shields.io/badge/-Cyber_Apocalypse_2023-FF6F61?style=for-the-badge&logo=HackTheBox&logoColor=white " />
-<img src=" " />
 </div>
 
 
