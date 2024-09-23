@@ -100,21 +100,13 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-PEH-4CAF50?style=for-the-badge&logo=TCMSecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
-
-<img src=" " />
-<img src=" " />
-
-<img src=" " />
-
-
-
 </div>
 
 ## Achievements
 
 <div>
 <img src="https://img.shields.io/badge/Master's%20Program-Cyber%20Security%20Expert-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
-     <a href="https://tryhackme.com/room/adventofcyber2023"/>TryHackMe 2023</a>
+     <a href="https://tryhackme.com/room/adventofcyber2023">TryHackMe 2023</a>
     <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 
 </div>
