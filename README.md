@@ -29,6 +29,30 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
+### Security Tools
+<div>
+<img src="https://img.shields.io/badge/-OWASP%20Top%2010-5B5EA6?style=for-the-badge&logo=OWASP&logoColor=white" />
+<img src="https://img.shields.io/badge/-Web%20Security-4B4B4B?style=for-the-badge&logo=Web&logoColor=white" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+
+    
+</div>
+    
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
