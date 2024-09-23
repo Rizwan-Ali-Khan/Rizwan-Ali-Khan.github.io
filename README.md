@@ -79,7 +79,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
-
+###
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
 </div>
@@ -90,23 +90,14 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <div>
     <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
-    
-    
 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B701%in%progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-   
-<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-007BFF?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src=" https://img.shields.io/badge/-Practical%20Ethical%20Hacking-007BFF?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src=" https://img.shields.io/badge/-Cybersecurity%20Bootcamp%20Cohort%209-007BFF?style=for-the-badge&logo=CyberTalents&logoColor=white" />
-<img src=" https://img.shields.io/badge/-Certified%20Penetration%20Testing%20Professional-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
-<img src=" https://img.shields.io/badge/-CompTIA_Security%2B_701-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
-<img src="https://img.shields.io/badge/-PEH_TCM_Security-4CAF50?style=for-the-badge&logo=Security&logoColor=white" />
+<img src=" https://img.shields.io/badge/-CompTIA_Security%2B_701-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-PEH-4CAF50?style=for-the-badge&logo=TCMSecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 
