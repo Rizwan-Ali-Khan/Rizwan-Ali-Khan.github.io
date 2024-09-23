@@ -1,5 +1,3 @@
-# Rizwan-Ali-Khan.github.io
-# rizwanalikhan.github.io
 # Hello, I'm Rizwan Ali Khan
 <a href="https://www.linkedin.com/in/patanrizwanalikhan"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
