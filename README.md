@@ -114,11 +114,8 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 <div>
 <img src="https://img.shields.io/badge/Master's%20Program-Cyber%20Security%20Expert-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
-     <a href="https://tryhackme.com/room/adventofcyber2023">
+     <a href="https://tryhackme.com/room/adventofcyber2023"/>TryHackMe 2023</a>
     <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
-</a>
-<img src="https://img.shields.io/badge/-CEHv11-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEHv11"/>
-<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white"/>
 
 </div>
 
