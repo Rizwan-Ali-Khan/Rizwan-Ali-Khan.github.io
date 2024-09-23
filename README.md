@@ -38,13 +38,13 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-Web%20Security-4B4B4B?style=for-the-badge&logo=Web&logoColor=white" />
 </div>
 
-### Vulnerability Assessment
+## Vulnerability Assessment
 <div>
     <img src="https://img.shields.io/badge/-VAPT-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-FFUF-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
 
-### Programming Languages
+## Programming Languages
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
@@ -54,7 +54,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 </div>
 
-### Security Tools
+## Security Tools
 <div>
 <img src="https://img.shields.io/badge/-Metasploit-00A1E4?style=for-the-badge&logo=Metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nessus-6B4C9A?style=for-the-badge&logo=Nessus&logoColor=white" />
@@ -64,17 +64,17 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-TheHarvester-00A1E4?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
     
-### Endpoint
+## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
+## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Cybersecurity Frameworks
+## Cybersecurity Frameworks
 <div>
 <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-7D8B3A?style=for-the-badge&logo=MITRE&logoColor=white" />
 <img src="https://img.shields.io/badge/-NIST-4D4D4D?style=for-the-badge&logo=NIST&logoColor=white" />
@@ -83,7 +83,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
-### Open Source
+## Open Source
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
 </div>
