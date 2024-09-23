@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/soc-l1/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Rizwan-Ali-Khan/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis                                | Update It|
 | Incident Response Planning and Execution      | Learn and Update It|
@@ -67,7 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Cyber Range
-- <a href="https://github.com/soc-l1/Detection-Lab/blob/main/README.md">Detection Lab</a>
+- <a href="https://github.com/Rizwan-Ali-Khan/Detection-Lab">Detection Lab</a>
 - Elastic Search
 - Qradar
 - DeepFake
