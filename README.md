@@ -82,9 +82,17 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ###
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
+</div>
+
+<div>
     <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
+</div>
+<div>
     <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
+    
+    
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
