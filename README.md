@@ -79,7 +79,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
-###
+### Open Source
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
 </div>
@@ -111,7 +111,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-Wireshark-00BFFF?style=for-the-badge&logo=Wireshark&logoColor=white " />
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B_601-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-FFA500?style=for-the-badge&logo=Nmap&logoColor=white " />
-<img src="https://img.shields.io/badge/-Cyber_Apocalypse_2023-FF6F61?style=for-the-badge&logo=HackTheBox&logoColor=white " />
 </div>
 
 
