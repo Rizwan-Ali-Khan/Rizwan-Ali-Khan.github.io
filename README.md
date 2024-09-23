@@ -79,6 +79,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
 </div>
 
+###
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
@@ -113,7 +114,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## Projects
 - Active Directory
 - Cyber Range
-- #<a href="https://rizwan-ali-khan.github.io/Detection-Lab/">Detection Lab</a>
 - Scanner
 - Academy
 - OWASP Top 10
