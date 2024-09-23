@@ -47,26 +47,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
     <a href="https://tryhackme.com/room/adventofcyber2023">
     <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 </a>
-
-<img src="https://img.shields.io/badge/-Cyber%20Apocalypse-009900?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Hack The Box - Cyber Apocalypse">
-<a href="URL_FOR_CEHV11" style="text-decoration:none; color:#000;">
-    <img src="URL_FOR_CEHV11_LOGO" alt="CEHv11 Badge" style="width:50px; vertical-align:middle;">
-    CEHv11 Badge
-</a>
-<br>
-<a href="URL_FOR_PRACTICAL_ETHICAL_HACKING" style="text-decoration:none; color:#000;">
-    <img src="URL_FOR_PRACTICAL_ETHICAL_HACKING_LOGO" alt="Practical Ethical Hacking" style="width:50px; vertical-align:middle;">
-    Practical Ethical Hacking
-</a>
-<br>
-<a href="URL_FOR_CYBERTALENTS" style="text-decoration:none; color:#000;">
-    <img src="URL_FOR_CYBERTALENTS_LOGO" alt="Cybertalents Bootcamp" style="width:50px; vertical-align:middle;">
-    Cybertalents Bootcamp Cohort 9
-</a>
-<br>
-<a href="URL_FOR_CPENT" style="text-decoration:none; color:#000;">
-    <img src="URL_FOR_CPENT_LOGO" alt="C|Pent" style="width:50px; vertical-align:middle;">
-    C|Pent
+<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
 </a>
 
 </div>
