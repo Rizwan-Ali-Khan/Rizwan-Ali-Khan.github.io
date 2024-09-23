@@ -7,14 +7,15 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Rizwan-Ali-Khan/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis                                | Update It|
-| Incident Response Planning and Execution      | Learn and Update It|
-| Case Management with TheHive                  | Learn|
+| OWASP Top 10          |Used bWAPP|
+|Penetration Testing |CTF's and VulnHub Machines|
+| Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
+| Malware Analysis                                | Learning|
+| VAPT     | WebGoat|
+| Log Analysis                 |Splunk |
 | Firewall Configuration                         | Cyber Range |
-| Scripting and Automation for Threat Mitigation | Learn|
-| HTML, CSS                                       | created a page |
+| Bash, Python | Created a scanner |
+| HTML, CSS                                       | created a blog and login page |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -22,21 +23,21 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    #<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    #<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    #<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    #<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    #<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -48,7 +49,25 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 </a>
 
 <img src="https://img.shields.io/badge/-Cyber%20Apocalypse-009900?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Hack The Box - Cyber Apocalypse">
-
+<a href="URL_FOR_CEHV11" style="text-decoration:none; color:#000;">
+    <img src="URL_FOR_CEHV11_LOGO" alt="CEHv11 Badge" style="width:50px; vertical-align:middle;">
+    CEHv11 Badge
+</a>
+<br>
+<a href="URL_FOR_PRACTICAL_ETHICAL_HACKING" style="text-decoration:none; color:#000;">
+    <img src="URL_FOR_PRACTICAL_ETHICAL_HACKING_LOGO" alt="Practical Ethical Hacking" style="width:50px; vertical-align:middle;">
+    Practical Ethical Hacking
+</a>
+<br>
+<a href="URL_FOR_CYBERTALENTS" style="text-decoration:none; color:#000;">
+    <img src="URL_FOR_CYBERTALENTS_LOGO" alt="Cybertalents Bootcamp" style="width:50px; vertical-align:middle;">
+    Cybertalents Bootcamp Cohort 9
+</a>
+<br>
+<a href="URL_FOR_CPENT" style="text-decoration:none; color:#000;">
+    <img src="URL_FOR_CPENT_LOGO" alt="C|Pent" style="width:50px; vertical-align:middle;">
+    C|Pent
+</a>
 
 </div>
 
@@ -63,8 +82,11 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 
 ## Projects
+- Active Directory
 - Cyber Range
-- <a href="https://rizwan-ali-khan.github.io/Detection-Lab/">Detection Lab</a>
-- Elastic Search
-- Qradar
+- #<a href="https://rizwan-ali-khan.github.io/Detection-Lab/">Detection Lab</a>
+- Scanner
+- Academy
+- OWASP Top 10
+- Kioptrix
 - DeepFake
