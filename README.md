@@ -3,6 +3,7 @@
 
 ## Objective
 To secure a challenging position as a Penetration Tester where I can leverage my skills in identifying vulnerabilities and securing systems, contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -19,7 +20,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ## Tools
 
-### Networking
+## Networking
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCPdump-FF6F61?style=for-the-badge&logo=TCPdump&logoColor=white" />
@@ -31,7 +32,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
-### Web security
+## Web security
 <div>
 <img src="https://img.shields.io/badge/-OWASP%20Top%2010-5B5EA6?style=for-the-badge&logo=OWASP&logoColor=white" />
 <img src="https://img.shields.io/badge/-Web%20Security-4B4B4B?style=for-the-badge&logo=Web&logoColor=white" />
