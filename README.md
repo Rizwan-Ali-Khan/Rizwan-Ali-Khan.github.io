@@ -48,7 +48,10 @@ To secure a challenging position as a Penetration Tester where I can leverage my
     <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 </a>
 <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-007BFF?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src=" https://img.shields.io/badge/-Practical%20Ethical%20Hacking-007BFF?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src=" https://img.shields.io/badge/-Cybersecurity%20Bootcamp%20Cohort%209-007BFF?style=for-the-badge&logo=CyberTalents&logoColor=white" />
+<img src=" https://img.shields.io/badge/-Certified%20Penetration%20Testing%20Professional-007BFF?style=for-the-badge&logo=EC-Council&logoColor=white" />
 
 </div>
 
