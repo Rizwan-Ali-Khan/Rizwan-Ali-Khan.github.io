@@ -21,10 +21,13 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ### Networking
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-TCPdump-FF6F61?style=for-the-badge&logo=TCPdump&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCPdump-FF6F61?style=for-the-badge&logo=TCPdump&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-4EAA25?style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Networking-FF4B00?style=for-the-badge&logo=Network&logoColor=white" />
+<img src=" https://img.shields.io/badge/-OSI_Model-4B9CD3?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCP_IP_Model-FF6F61?style=for-the-badge&logo=internet-explorer&logoColor=white " />
+<img src=" https://img.shields.io/badge/-Ports-FFA500?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/-Protocols-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
