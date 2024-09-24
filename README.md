@@ -15,7 +15,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 | VAPT     | VulnHub Machines|
 | Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
-| Bash, Python | Created a ---=network scanner|
+| Bash, Python | Created a network scanner|
 | HTML, CSS                                       | created a blog and login page |
 
 ## Tools
