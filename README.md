@@ -12,10 +12,10 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 |Penetration Testing |CTF's and VulnHub Machines|
 | Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
 | Malware Analysis                                | Learning|
-| VAPT     | WebGoat|
-| Log Analysis                 |Splunk |
+| VAPT     | VulnHub Machines|
+| Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
-| Bash, Python | Created a scanner |
+| Bash, Python | Created a ---=network scanner|
 | HTML, CSS                                       | created a blog and login page |
 
 ## Tools
@@ -58,9 +58,9 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <div>
 <img src="https://img.shields.io/badge/-Metasploit-00A1E4?style=for-the-badge&logo=Metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nessus-6B4C9A?style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-009900?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-009900?style=for-the-badge&logo=OpenVAS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DirBuster-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-DirBuster-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-TheHarvester-00A1E4?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
     
@@ -122,7 +122,12 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 - Active Directory
 - Cyber Range
 - Scanner
+- DeepFake
+  
+### Practical experience
 - Academy
 - OWASP Top 10
 - Kioptrix
-- DeepFake
+- Dev
+- Butler
+- Blue
