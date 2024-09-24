@@ -123,8 +123,10 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 - Cyber Range
 - Scanner
 - DeepFake
-I will update more projects and their proof's in future!
-### Practical experience
+
+## I will update more projects and their proof's in future!
+
+## Practical experience
 - Academy
 - OWASP Top 10
 - Kioptrix
