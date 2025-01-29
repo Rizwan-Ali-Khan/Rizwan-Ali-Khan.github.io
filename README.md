@@ -10,12 +10,10 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OWASP Top 10          |OWASP BWAP|
+| OWASP Top 10    & VAPT      |OWASP BWAP|
 |Penetration Testing |CTF's and VulnHub Machines|
 | Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
-| VAPT     | VulnHub Machines|
-| Log Analysis                 |Cyber Range|
-| Firewall Configuration                         | Cyber Range |
+| Log Analysis     & Firewall Configuration             |Cyber Range|
 | Bash, Python | Created a network scanner|
 | HTML, CSS                                       | created a blog and login page |
 
