@@ -1,11 +1,7 @@
 # Hello, I'm Rizwan Ali Khan
 <a href="https://www.linkedin.com" target="_blank">
-  <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-IBM_QRadar-1F70C1?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM QRadar Badge" style="vertical-align: middle; margin-right: 10px;" />
-    Visit LinkedIn
-  </button>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-
 
 ## Objective
 To secure a challenging position as a Penetration Tester where I can leverage my skills in identifying vulnerabilities and securing systems, contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
