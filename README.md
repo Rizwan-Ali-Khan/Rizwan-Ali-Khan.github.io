@@ -1,6 +1,8 @@
 # Hello, I'm Rizwan Ali Khan
 <a href="https://www.linkedin.com" target="_blank">
-  <button img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
+  <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/-IBM_QRadar-1F70C1?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM QRadar Badge" style="vertical-align: middle; margin-right: 10px;" />
+    Visit LinkedIn
   </button>
 </a>
 
@@ -74,7 +76,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM_QRadar-1F70C1?&style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
 
 ## Cybersecurity Frameworks
@@ -100,7 +102,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
-<img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white" />
+<img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white" alt="PEH Badge" style="vertical-align: middle; margin-right: 10px;" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
 
