@@ -29,7 +29,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src=" https://img.shields.io/badge/-Ports-FFA500?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 <img src="https://img.shields.io/badge/-Protocols-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shodan-FF4F00?&style=for-the-badge&logo=shodan&logoColor=white" />
 </div>
 
 ## Web security
@@ -40,8 +39,9 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ## Vulnerability Assessment
 <div>
-<img src="https://img.shields.io/badge/-VAPT-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp_Suite-660000?&style=for-the-badge&logo=burpsuite&logoColor=white">
 <img src="https://img.shields.io/badge/-FFUF-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shodan-FF4F00?&style=for-the-badge&logo=shodan&logoColor=white" />
 </div>
 
 ## Programming Languages
