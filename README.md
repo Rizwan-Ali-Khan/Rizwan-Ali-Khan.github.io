@@ -1,5 +1,11 @@
 # Hello, I'm Rizwan Ali Khan
 <a href="https://www.linkedin.com/in/patanrizwanalikhan"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com" target="_blank">
+  <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+    Visit LinkedIn
+  </button>
+</a>
+
 
 ## Objective
 To secure a challenging position as a Penetration Tester where I can leverage my skills in identifying vulnerabilities and securing systems, contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
@@ -15,7 +21,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 | Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
 | Bash, Python | Created a network scanner|
-#| HTML, CSS                                       | created a blog and login page |
+| HTML, CSS                                       | created a blog and login page |
 
 ## Tools
 
