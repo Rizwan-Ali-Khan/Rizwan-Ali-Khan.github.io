@@ -11,7 +11,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 | OWASP Top 10          |OWASP BWAP|
 |Penetration Testing |CTF's and VulnHub Machines|
 | Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
-#Malware Analysis                                Learning
 | VAPT     | VulnHub Machines|
 | Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
@@ -41,18 +40,16 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 ## Vulnerability Assessment
 <div>
-    <img src="https://img.shields.io/badge/-VAPT-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-VAPT-FF6F61?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-FFUF-00BFFF?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
 
 ## Programming Languages
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-#<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-#<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 </div>
 
 ## Security Tools
@@ -89,14 +86,6 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <div>
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
 </div>
-
-#<div>
- #   <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
-#</div>
-#<div>
- #   <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-#</div>
-
 
 ## Certifications
 <div>
