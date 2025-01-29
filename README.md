@@ -4,7 +4,7 @@
 </a>
 
 ## Objective
-To secure a challenging position in Vulnerability Assessment and Penetration Testing. Where I can leverage my skills in identifying vulnerabilities and securing systems, contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
+To secure a challenging position in Vulnerability Assessment and Penetration Testing. Where I can leverage my skills in identifying vulnerabilities and securing systems. Contributing to enhanced cybersecurity measures while fostering a proactive security culture within the organization.
 
 ## Skills
 
