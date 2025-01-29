@@ -11,7 +11,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 | OWASP Top 10          |OWASP BWAP|
 |Penetration Testing |CTF's and VulnHub Machines|
 | Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
-#| Malware Analysis                                | Learning|
+###| Malware Analysis                                | Learning|
 | VAPT     | VulnHub Machines|
 | Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
