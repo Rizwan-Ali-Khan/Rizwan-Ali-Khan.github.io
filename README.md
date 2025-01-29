@@ -95,8 +95,8 @@ To secure a challenging position in Vulnerability Assessment and Penetration Tes
 
 ## Trainings
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
@@ -107,7 +107,6 @@ To secure a challenging position in Vulnerability Assessment and Penetration Tes
 <img src="https://img.shields.io/badge/-Cyber_Apocalypse_2023-FF6F61?style=for-the-badge&logo=HackTheBox&logoColor=white" />
 <img src="https://img.shields.io/badge/-AdventOfCyber2023-007BFF?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="AdventOfCyber2023">
 <img src="https://img.shields.io/badge/-Security_Engineer_Certificate-FF6F61?style=for-the-badge&logo=Security&logoColor=white " />
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 
