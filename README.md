@@ -82,6 +82,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src="https://img.shields.io/badge/-PCI%20DSS-0094D8?style=for-the-badge&logo=Payment&logoColor=white" />
 <img src="https://img.shields.io/badge/-HIPAA-5A8BFF?style=for-the-badge&logo=Health&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISO%2027001-0072C6?style=for-the-badge&logo=ISO&logoColor=white" />
+Just Basic information!
 </div>
 
 ## Open Source
