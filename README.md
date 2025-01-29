@@ -8,15 +8,15 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OWASP Top 10          |Used bWAPP|
+| OWASP Top 10          |OWASP BWAP|
 |Penetration Testing |CTF's and VulnHub Machines|
 | Network Traffic Monitoring and Attack Detection |Used Wireshark and tcpdump |
-| Malware Analysis                                | Learning|
+#| Malware Analysis                                | Learning|
 | VAPT     | VulnHub Machines|
 | Log Analysis                 |Cyber Range|
 | Firewall Configuration                         | Cyber Range |
 | Bash, Python | Created a network scanner|
-| HTML, CSS                                       | created a blog and login page |
+#| HTML, CSS                                       | created a blog and login page |
 
 ## Tools
 
@@ -30,6 +30,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 <img src=" https://img.shields.io/badge/-Ports-FFA500?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 <img src="https://img.shields.io/badge/-Protocols-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 <img src="https://img.shields.io/badge/-pfSense-3E66B8?style=for-the-badge&logo=pfSense&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shodan-FF4F00?&style=for-the-badge&logo=shodan&logoColor=white" />
 </div>
 
 ## Web security
@@ -47,11 +48,11 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## Programming Languages
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
+#<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+#<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
 </div>
 
 ## Security Tools
@@ -72,6 +73,7 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Cybersecurity Frameworks
@@ -88,25 +90,28 @@ To secure a challenging position as a Penetration Tester where I can leverage my
    <img src="https://img.shields.io/badge/-OSINT-2D87F0?style=for-the-badge&logo=OpenSearch&logoColor=white" />
 </div>
 
-<div>
-    <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-</div>
+#<div>
+ #   <img src="https://img.shields.io/badge/-Cyber%20Security-FF4F4F?style=for-the-badge&logo=Security&logoColor=white" />
+#</div>
+#<div>
+ #   <img src="https://img.shields.io/badge/-Cloud%20Computing-00B2E2?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+#</div>
 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701%29%20In%20Progress-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
-<img src="https://img.shields.io/badge/-PEH-4CAF50?style=for-the-badge&logo=TCMSecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%7CPent_In_Progress-FF0000?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
 
-## Achievements
+## Trainings
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
+<img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
+</div>
 
+## Achievements
 <div>
 <img src="https://img.shields.io/badge/Master's%20Program-808080?style=for-the-badge&logo=simplilearn&logoColor=white" alt="Master's Program"/>
 <img src="https://img.shields.io/badge/-Cyber_Apocalypse_2023-FF6F61?style=for-the-badge&logo=HackTheBox&logoColor=white" />
@@ -121,14 +126,16 @@ To secure a challenging position as a Penetration Tester where I can leverage my
 ## Projects
 - Active Directory
 - Cyber Range
-- Scanner
+- Port Scanner (using Bash and python)
 - DeepFake
 
-I will update more projects and their proof's in future!
+I will update the projects very soon!
 
 ## Practical experience
-- Academy
+- Practical Ethical Hacking (TCM Security)
 - OWASP Top 10
+- Pico CTF (Completed all beginner challenges)
+- Cyber Talents
 - Kioptrix
 - Dev
 - Butler
