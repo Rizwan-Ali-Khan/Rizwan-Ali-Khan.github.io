@@ -1,8 +1,6 @@
 # Hello, I'm Rizwan Ali Khan
-<a href="https://www.linkedin.com/in/patanrizwanalikhan" img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://www.linkedin.com" target="_blank">
-  <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
-   
+  <button img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
   </button>
 </a>
 
