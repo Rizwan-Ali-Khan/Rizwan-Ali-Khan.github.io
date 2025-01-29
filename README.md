@@ -97,7 +97,7 @@ To secure a challenging position in Vulnerability Assessment and Penetration Tes
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20%28701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH_V11_Training-FF0000?style=for-the-badge&logo=Security&logoColor=white " />
-<img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white" alt="PEH Badge" style="vertical-align: middle; margin-right: 10px;" />
+<img src="https://img.shields.io/badge/-PEH-005F8D?&style=for-the-badge&logo=certification&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Cybersecurity_Bootcamp_Cohort_9-FFA500?style=for-the-badge&logo=Security&logoColor=white" />
 </div>
 
