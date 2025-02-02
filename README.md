@@ -121,7 +121,7 @@ I will update the projects very soon!
 ## Practical experience
 - Practical Ethical Hacking (TCM Security)
 - OWASP Top 10
-- Pico CTF (Completed all beginner challenges)
+- Pico CTF (Completed all 60 beginner-level CTFs)
 - Cyber Talents
 - Kioptrix
 - Dev
